@@ -1,0 +1,41 @@
+.section__portafolio {
+  display: flex;
+  flex-direction: column;
+  
+  align-items: center;
+}
+
+.container__portafolio-text {
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  flex-direction: column;
+
+  padding: 20px;
+  gap: 10px;
+
+  margin-top: 20px;
+}
+
+.container__portafolio-text h1 {
+  font-size: 40px;
+}
+
+/* --------------------------  */
+
+.section__portafolio-proyects {
+  display: grid;
+  width: 100%;
+  max-width: 1200px;
+
+  margin-top: 100px;
+  grid-template-columns: repeat(auto-fill , minmax(350px , 1fr));
+  gap: 20px;
+
+  /* background-color: antiquewhite; */
+
+  align-content: center;
+  justify-items: center;
+
+  cursor: pointer;
+}

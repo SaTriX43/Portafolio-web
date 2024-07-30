@@ -1,0 +1,276 @@
+/* -------------------------------  */
+.section__about {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-bottom: 100px;
+  align-items: center;
+
+}
+
+/* --------------------------------------  */
+
+.container__about {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1000px;
+  padding: 25px;
+}
+
+.container__about-text {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 23px;
+  margin-top: 20px;
+}
+
+.container__about-text h2 {
+  font-size: 50px;
+}
+
+.container__about-image {
+  display: flex;
+  width: 100%;
+  height: 400px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+
+.about__image {
+  min-width: 250px;
+  height: 300px;
+  max-height: 500px;
+  object-fit: cover;
+  border-radius: 30%;
+}
+
+.container__about-buttons {
+  display: flex;
+  width: 100%;
+  max-width: 800px;
+
+  margin: auto;
+  margin-top: 20px;
+  gap: 20px;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.about-buttons {
+  display: flex;
+  width: 200px;
+  height: 50px;
+  
+  border: none;
+  border-radius: 20px;
+
+  align-items: center;
+  justify-content: center;
+  transition: all .3s ease;
+  cursor: pointer;
+
+  box-shadow: 0px 5px 5px 0px gray;
+}
+
+.about-buttons:hover {
+  background-color: rgb(173, 173, 173);
+  color: rgb(68, 68, 68);
+} 
+
+.about__button-icon {
+  font-size: 30px;
+}
+
+/* ------------------------------------------  */
+/* Education  */
+.section__about-education {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 300px;
+
+  gap: 20px;
+  padding: 20px;
+
+  margin-top: 100px;
+}
+
+.container__about-education-text {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 500px;
+
+  margin: auto;
+  gap: 10px;
+
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.container__about-education-image {
+  display: flex;
+  width: 200px;
+  height: 200px;
+
+  margin: auto;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.about-education-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* -----------------------------------  */
+/* Skill  */
+
+.section__about-skill {
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 300px;
+  flex-direction: column;
+  gap: 50px;
+  margin-top: 100px;
+  align-items: center;
+}
+
+.section__about-skill h1 {
+  font-size: 50px;
+}
+
+.container__about-skills {
+  display: grid;
+  width: 100%;
+ 
+  grid-template-columns: repeat(auto-fill, minmax(200px , 1fr));
+  
+  
+  gap: 10px;
+
+  align-items: center;
+  justify-items: center;
+}
+
+
+.skills__about-icon {
+  width: 150px;
+  height: 150px;
+}
+
+.html {
+  color: orange;
+}
+
+.css {
+  color: rgb(20, 136, 230);
+}
+
+.js {
+  color: rgb(226, 226, 59);
+}
+
+.react {
+  color: aqua;
+}
+
+/* -----------------------------  */
+
+/* Hobbies  */
+.section__about-hobbie {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 400px;
+
+  margin-top: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  gap: 20px;
+  align-items: center;
+
+}
+
+.container__about-hobbie-text {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.container__about-hobbie-text h2 {
+  color: orange;
+}
+
+.hobbie-img-1 {
+  display: none;
+}
+
+.container__about-hobbie-image {
+  display: flex;
+  width: 300px;
+  height: 450px;
+
+}
+
+
+.about__image-hobbie {
+  width: 100%;
+  max-width: 400px;
+  height: 100%;
+  max-height: 450px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+
+@media (min-width: 750px) {
+  .section__about-hobbie {
+    flex-direction: row;
+    align-items: start;
+  }
+
+  .hobbie-img-1 {
+    display: flex;
+  }
+
+  .container__about-hobbie-text {
+    font-size: 23px; 
+  }
+
+  .hobbie-img-1 {
+    margin-top: 30px;
+  }
+
+  .section__about-education {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .container__about-education-text  {
+    max-width: 400px;
+    font-size: 23px;
+  }
+
+  .container__about-education-image {
+    width: 250px;
+    height: 250px;
+  }
+}
