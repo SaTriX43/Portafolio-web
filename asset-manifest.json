@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portafolio-web/static/css/main.b09f7fd0.css",
-    "main.js": "/Portafolio-web/static/js/main.958ac229.js",
+    "main.js": "/Portafolio-web/static/js/main.ef73525b.js",
     "static/media/foto1.png": "/Portafolio-web/static/media/foto1.e93a112842a7f5205f20.png",
     "static/media/Calistenia-curso.png": "/Portafolio-web/static/media/Calistenia-curso.9c40a43532d226a976f6.png",
     "static/media/foto-acerca.jpg": "/Portafolio-web/static/media/foto-acerca.a70e47bc07de7f9bbf50.jpg",
@@ -10,6 +10,7 @@
     "static/media/tuck-advance.jpg": "/Portafolio-web/static/media/tuck-advance.10070bac5cf527a8a296.jpg",
     "static/media/handstand.jpg": "/Portafolio-web/static/media/handstand.e406e78be83d818a2f36.jpg",
     "static/media/CV.pdf": "/Portafolio-web/static/media/CV.bd20755502e3bd0511d9.pdf",
+    "static/media/Info-libros.png": "/Portafolio-web/static/media/Info-libros.8734ae6d55ffb5910c1c.png",
     "static/media/Encuesta-calistenia.png": "/Portafolio-web/static/media/Encuesta-calistenia.244f8b264df4dffa56ae.png",
     "static/media/App-contact.png": "/Portafolio-web/static/media/App-contact.6147c9bb248c05381716.png",
     "static/media/perseverancia.png": "/Portafolio-web/static/media/perseverancia.6d5ba17a80d690198da8.png",
@@ -17,10 +18,10 @@
     "static/media/calistenia-logo.jpg": "/Portafolio-web/static/media/calistenia-logo.7f1fc6d7302dcda02360.jpg",
     "index.html": "/Portafolio-web/index.html",
     "main.b09f7fd0.css.map": "/Portafolio-web/static/css/main.b09f7fd0.css.map",
-    "main.958ac229.js.map": "/Portafolio-web/static/js/main.958ac229.js.map"
+    "main.ef73525b.js.map": "/Portafolio-web/static/js/main.ef73525b.js.map"
   },
   "entrypoints": [
     "static/css/main.b09f7fd0.css",
-    "static/js/main.958ac229.js"
+    "static/js/main.ef73525b.js"
   ]
 }
