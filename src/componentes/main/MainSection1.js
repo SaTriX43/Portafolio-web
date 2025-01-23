@@ -28,9 +28,9 @@ export default function MainSection1() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
         >
-          Un desarrollador web Frontend apasionado por crear interfaces modernas, elegantes
+          Desarrollador web Fullstack apasionado por crear interfaces modernas, elegantes
           y funcionales. Me especializo en transformar ideas en experiencias digitales
-          intuitivas utilizando tecnologías como React, Next.js y TailwindCSS. Mi objetivo es
+          intuitivas utilizando tecnologías como React, Next.js y Node.js. Mi objetivo es
           construir soluciones atractivas que conecten con los usuarios y aporten valor.
         </motion.p>
         <motion.div

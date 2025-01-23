@@ -32,6 +32,7 @@ export default function MainSection2() {
               imagen={proyecto.image}
               descripcion={proyecto.text}
               url={proyecto.url}
+              tecnologias={proyecto.tecnologias}
             />
           </motion.div>
         ))}

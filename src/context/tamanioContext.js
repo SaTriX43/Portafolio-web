@@ -1,4 +1,3 @@
-import { width } from "@fortawesome/free-brands-svg-icons/fa42Group";
 import { createContext, useEffect, useState } from "react";
 
 const TamanioContext = createContext()
