@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portafolio-web/static/css/main.8b4ee11b.css",
-    "main.js": "/Portafolio-web/static/js/main.7734d35f.js",
+    "main.js": "/Portafolio-web/static/js/main.6feec93a.js",
     "static/media/foto1.png": "/Portafolio-web/static/media/foto1.e93a112842a7f5205f20.png",
     "static/media/Calistenia-curso.png": "/Portafolio-web/static/media/Calistenia-curso.9c40a43532d226a976f6.png",
     "static/media/Catalogo-producto.png": "/Portafolio-web/static/media/Catalogo-producto.8fc4c92882defcce66f7.png",
     "static/media/Conversion-moneda.png": "/Portafolio-web/static/media/Conversion-moneda.7e958a66e99019e70547.png",
     "static/media/App-Calistenia.png": "/Portafolio-web/static/media/App-Calistenia.c15b02fc548d061d017d.png",
     "static/media/AppMascota.png": "/Portafolio-web/static/media/AppMascota.3f167b62c91dcde6c439.png",
+    "static/media/CV.pdf": "/Portafolio-web/static/media/CV.7077d60bd3f1993d7b37.pdf",
     "static/media/Info-libros.png": "/Portafolio-web/static/media/Info-libros.8734ae6d55ffb5910c1c.png",
     "static/media/App-finanzas.png": "/Portafolio-web/static/media/App-finanzas.6a8a79256584ee7066ee.png",
     "static/media/Encuesta-calistenia.png": "/Portafolio-web/static/media/Encuesta-calistenia.244f8b264df4dffa56ae.png",
-    "static/media/CV.pdf": "/Portafolio-web/static/media/CV.b179e272b0a46babcf62.pdf",
     "static/media/App-contact.png": "/Portafolio-web/static/media/App-contact.6147c9bb248c05381716.png",
     "static/media/App-clima.png": "/Portafolio-web/static/media/App-clima.c2812b69885de5511b6a.png",
     "static/media/postgresql.svg": "/Portafolio-web/static/media/postgresql.35cc1f875829cb88a3d2beec39402921.svg",
@@ -20,10 +20,10 @@
     "index.html": "/Portafolio-web/index.html",
     "static/media/express.svg": "/Portafolio-web/static/media/express.13e4b3884f318c648bfe0207aa64c8dc.svg",
     "main.8b4ee11b.css.map": "/Portafolio-web/static/css/main.8b4ee11b.css.map",
-    "main.7734d35f.js.map": "/Portafolio-web/static/js/main.7734d35f.js.map"
+    "main.6feec93a.js.map": "/Portafolio-web/static/js/main.6feec93a.js.map"
   },
   "entrypoints": [
     "static/css/main.8b4ee11b.css",
-    "static/js/main.7734d35f.js"
+    "static/js/main.6feec93a.js"
   ]
 }
